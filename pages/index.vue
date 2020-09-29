@@ -6,9 +6,13 @@
 
 <script>
 
-export default {
-  components: {
-   
-  }
-}
+  export default{
+    layout: "blank",
+    methods:{
+      login(){
+        
+      }
+    }
+  };
+
 </script>
