@@ -1,5 +1,5 @@
 <template>
-  <div>Pag Index</div>
+  <div>Pag Indexsdafdf</div>
   
 
 </template>
